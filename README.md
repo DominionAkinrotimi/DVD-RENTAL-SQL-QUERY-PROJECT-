@@ -1,4 +1,5 @@
-[Check queries overview](#Queries-Overview)      [Bottom of the file](#Conclusion)
+[Check queries overview](#Queries-Overview)    
+[Bottom of the file](#Conclusion)
 
 # SQL Queries Project
 This project consists of a series of SQL queries that demonstrate various scenarios and challenges commonly encountered in database management. The queries cover topics such as data retrieval, analysis, and manipulation using the Sakila database, a sample database for a fictional DVD rental store.
