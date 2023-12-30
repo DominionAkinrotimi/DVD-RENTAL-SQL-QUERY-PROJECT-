@@ -2,7 +2,30 @@
 
 This project consists of a series of SQL queries that demonstrate various scenarios and challenges commonly encountered in database management. The queries cover topics such as data retrieval, analysis, and manipulation using the Sakila database, a sample database for a fictional DVD rental store.
 
-## Queries Overview
+## How to Use
+
+1. **Database Setup:**
+    - Download the Sakila database from the [dvdrental.tar](./dvdrental.tar) or [dvdrental.zip](./dvdrental.zip) file.
+    - Extract the database file using appropriate tools.
+
+2. **Database Connection:**
+    - Use a PostgreSQL database management tool (e.g., pgAdmin, DBeaver) to create a new database.
+    - Import the Sakila database into your PostgreSQL server using the extracted SQL file.
+
+3. **Explore Queries:**
+    - Each SQL query is stored in a separate file (e.g., `question-1.sql`, `question-2.sql`).
+    - Use the links in the [Query Overview](#Queries_Overview) section to navigate through the SQL query files
+    - Open the desired query file to view and copy the SQL statement.
+
+4. **Execute Queries:**
+    - Paste the copied SQL statement into your PostgreSQL query tool.
+    - Execute the query to see the results.
+
+5. **Additional Resources:**
+    - Explore the provided database diagram in [printable-postgresql-sample-database-diagram.pdf](./printable-postgresql-sample-database-diagram.pdf) for a visual representation of the database structure.
+
+
+## Queries_Overview
 
 ### Question 1
 
@@ -94,3 +117,5 @@ This project consists of a series of SQL queries that demonstrate various scenar
 This project serves as a comprehensive example of SQL queries covering a variety of scenarios. The queries are designed to showcase common tasks in database management and can be used as a reference for learning and practicing SQL skills.
 
 Feel free to explore and adapt the queries to your specific needs!
+
+[Go to the top of the page](#SQL-Queries-Project)
