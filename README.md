@@ -1,5 +1,6 @@
-# SQL Queries Project
+[Check queries overview](#Queries-Overview)      [Bottom of the file](#Conclusion)
 
+# SQL Queries Project
 This project consists of a series of SQL queries that demonstrate various scenarios and challenges commonly encountered in database management. The queries cover topics such as data retrieval, analysis, and manipulation using the Sakila database, a sample database for a fictional DVD rental store.
 
 ## How to Use
@@ -14,7 +15,7 @@ This project consists of a series of SQL queries that demonstrate various scenar
 
 3. **Explore Queries:**
     - Each SQL query is stored in a separate file (e.g., `question-1.sql`, `question-2.sql`).
-    - Use the links in the [Query Overview](#Queries_Overview) section to navigate through the SQL query files
+    - Use the links in the [Query Overview](#Queries-Overview) section to navigate through the SQL query files
     - Open the desired query file to view and copy the SQL statement.
 
 4. **Execute Queries:**
@@ -25,7 +26,7 @@ This project consists of a series of SQL queries that demonstrate various scenar
     - Explore the provided database diagram in [printable-postgresql-sample-database-diagram.pdf](./printable-postgresql-sample-database-diagram.pdf) for a visual representation of the database structure.
 
 
-## Queries_Overview
+## Queries Overview
 
 ### Question 1
 
