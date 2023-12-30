@@ -7,12 +7,12 @@ This project consists of a series of SQL queries that demonstrate various scenar
 ### Question 1
 
 - **Objective:** Display customer names that share the same address (e.g., husband and wife).
-- **Query:** [See Question 1 Query](Queries/question_1.sql)
+- **Query:** [See Question 1 Query](Queries/question-1.sql)
 
 ### Question 2
 
 - **Objective:** Find the customer who made the highest total payments.
-- **Query:** [See Question 2 Query](./question-2.sql)
+- **Query:** [See Question 2 Query](Queries/question-2.sql)
 
 ### Question 3
 
