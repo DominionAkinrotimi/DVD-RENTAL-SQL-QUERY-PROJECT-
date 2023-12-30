@@ -17,77 +17,77 @@ This project consists of a series of SQL queries that demonstrate various scenar
 ### Question 3
 
 - **Objective:** Identify the most rented movies.
-- **Query:** [See Question 3 Query](./question-3.sql)
+- **Query:** [See Question 3 Query](Queries/question-3.sql)
 
 ### Question 4
 
 - **Objective:** List movies that have been rented.
-- **Query:** [See Question 4 Query](./question-4.sql)
+- **Query:** [See Question 4 Query](Queries/question-4.sql)
 
 ### Question 5
 
 - **Objective:** List movies that have not been rented so far.
-- **Query:** [See Question 5 Query](./question-5.sql)
+- **Query:** [See Question 5 Query](Queries/question-5.sql)
 
 ### Question 6
 
 - **Objective:** Identify customers who have not rented any movies.
-- **Query:** [See Question 6 Query](./question-6.sql)
+- **Query:** [See Question 6 Query](Queries/question-6.sql)
 
 ### Question 7
 
 - **Objective:** Display each movie and the number of times it got rented.
-- **Query:** [See Question 7 Query](./question-7.sql)
+- **Query:** [See Question 7 Query](Queries/question-7.sql)
 
 ### Question 8
 
 - **Objective:** Show the number of films each actor acted in.
-- **Query:** [See Question 8 Query](./question-8.sql)
+- **Query:** [See Question 8 Query](Queries/question-8.sql)
 
 ### Question 9
 
 - **Objective:** Display the names of actors that acted in more than 20 movies.
-- **Query:** [See Question 9 Query](./question-9.sql)
+- **Query:** [See Question 9 Query](Queries/question-9.sql)
 
 ### Question 10
 
 - **Objective:** For movies rated "PG," show each movie and the number of times it got rented.
-- **Query:** [See Question 10 Query](./question-10.sql)
+- **Query:** [See Question 10 Query](Queries/question-10.sql)
 
 ### Question 11
 
 - **Objective:** Display movies offered for rent in store_id and not offered in store_id 2.
-- **Query:** [See Question 11 Query](./question-11.sql)
+- **Query:** [See Question 11 Query](Queries/question-11.sql)
 
 ### Question 12
 
 - **Objective:** Display movies offered for rent in either of the two stores (store 1 and 2).
-- **Query:** [See Question 12 Query](./question-12.sql)
+- **Query:** [See Question 12 Query](Queries/question-12.sql)
 
 ### Question 13
 
 - **Objective:** Display movie titles offered in both stores simultaneously.
-- **Query:** [See Question 13 Query](./question-13.sql)
+- **Query:** [See Question 13 Query](Queries/question-13.sql)
 
 ### Question 14
 
 - **Objective:** Show the movie title for the most rented movie in the store with store_id 1.
-- **Query:** [See Question 14 Query](./question-14.sql)
+- **Query:** [See Question 14 Query](Queries/question-14.sql)
 
 ### Question 15
 
 - **Objective:** Determine how many movies are not offered for rent in stores 1 and 2.
-- **Query:** [See Question 15 Query](./question-15.sql)
+- **Query:** [See Question 15 Query](Queries/question-15.sql)
 
 ### Question 16
 
 - **Objective:** Show the number of rented movies under each rating.
-- **Query:** [See Question 16 Query](./question-16.sql)
+- **Query:** [See Question 16 Query](Queries/question-16.sql)
 
 ### Question 17
 
 - **Objective:** Show the profit of each of the stores 1 and 2.
-- **Query:** [See Question 17 Query](./question-17.sql)
+- **Query:** [See Question 17 Query](Queries/question-17.sql)
 
 ## Conclusion
 
